@@ -36,6 +36,10 @@
 - [GPT-neoxの学習用にマルチノード並列学習環境を整えた with DeepSpeed](https://tech-blog.abeja.asia/entry/abeja-gpt-neox-infra-202208)
 
 
+## Fine-tuning
+- [【インターンレポート】6.7B日本語モデルに対するLoRAチューニング](https://engineering.linecorp.com/ja/blog/lora-tuning-for-japanese-model)
+
+
 ## Evaluation
 - [EleutherAI/lm-evaluation-harness: v0.3.0](https://zenodo.org/record/7413426)
 - [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset)

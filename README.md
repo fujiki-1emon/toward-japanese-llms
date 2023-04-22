@@ -11,3 +11,4 @@
 
 
 ## Donwstream tasks
+- [EleutherAI/lm-evaluation-harness: v0.3.0](https://zenodo.org/record/7413426)

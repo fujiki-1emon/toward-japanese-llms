@@ -1,7 +1,8 @@
 # japanese-llms-resources
 
 ## Table of Contents
-
+- [Pre-training datasets](#pre-training-datasets)
+- [Downsteam tasks](#donwstream-tasks)
 
 ## Pre-training datasets
 - The Pile

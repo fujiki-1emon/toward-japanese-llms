@@ -38,6 +38,8 @@
 
 ## Fine-tuning
 - [【インターンレポート】6.7B日本語モデルに対するLoRAチューニング](https://engineering.linecorp.com/ja/blog/lora-tuning-for-japanese-model)
+- Self-Instruct: Aligning Language Model with Self Generated Instructions [arXiv](https://arxiv.org/abs/2212.10560)
+  - https://twitter.com/rasbt/status/1650866140892069892?s=20
 
 
 ## Evaluation

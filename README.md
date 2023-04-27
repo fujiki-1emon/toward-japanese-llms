@@ -18,7 +18,7 @@
 ## Donwstream tasks
 ### Question Answering
 - Better Question-Answering Models on a Budget [[ArXiv]](https://arxiv.org/abs/2304.12370v1)
-  - Looks interesting, but only compared their models to OPTs?
+  - Having briefly checked it, it looks interesting, but only compared their models to OPTs?
 
 
 ## Tokenization

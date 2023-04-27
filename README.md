@@ -45,3 +45,7 @@
 ## Evaluation
 - [EleutherAI/lm-evaluation-harness: v0.3.0](https://zenodo.org/record/7413426)
 - [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset)
+
+
+## Practical
+- Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[ArXiv]](https://arxiv.org/abs/2304.13712)

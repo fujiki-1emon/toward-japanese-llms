@@ -1,4 +1,4 @@
-# japanese-llms-resources
+# Resources toward Japanese LLMs
 
 ## Table of Contents
 - [Pre-training datasets](#pre-training-datasets)
@@ -11,6 +11,8 @@
 
 ## Pre-training datasets
 ### The Pile
+- The Pile: An 800GB Dataset of Diverse Text for Language Modeling [[arXiv]](https://arxiv.org/abs/2101.00027)
+  - noted: Pile-CC
 - The Pile has 0.07%（approx. 900 M chars）of Japanese texts based on the types of the characters.
   - cf. [The Pileの構成（なぜCerebras-GPTで日本語が使えるのか？）](https://staka.jp/wordpress/?p=854)
 

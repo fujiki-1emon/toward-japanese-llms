@@ -54,3 +54,8 @@
 
 ## Practical
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[ArXiv]](https://arxiv.org/abs/2304.13712)
+
+# What I've developed
+- [t5-efficient-xl-nl6-japanese](https://huggingface.co/JapaNLP/t5-efficient-xl-nl6-japanese)
+- [ul2-base-japanese](https://huggingface.co/JapaNLP/ul2-base-japanese)
+- [ul2-large-japanese](https://huggingface.co/JapaNLP/ul2-large-japanese)

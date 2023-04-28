@@ -46,6 +46,12 @@
 - Self-Instruct: Aligning Language Model with Self Generated Instructions [arXiv](https://arxiv.org/abs/2212.10560)
   - https://twitter.com/rasbt/status/1650866140892069892?s=20
 
+### RLHF
+- RLHF works because it's rating full sentences
+  -  https://twitter.com/savvyRL/status/1651255588813443073?s=20
+  -  https://twitter.com/mr_bay_area/status/1651594421551644678?s=20
+    -  Sequence Level Training with Recurrent Neural Networks [[arXiv]](https://arxiv.org/abs/1511.06732)
+
 
 ## Evaluation
 - [EleutherAI/lm-evaluation-harness: v0.3.0](https://zenodo.org/record/7413426)

@@ -50,7 +50,7 @@
 - RLHF works because it's rating full sentences
   -  https://twitter.com/savvyRL/status/1651255588813443073?s=20
   -  https://twitter.com/mr_bay_area/status/1651594421551644678?s=20
-    -  Sequence Level Training with Recurrent Neural Networks [[arXiv]](https://arxiv.org/abs/1511.06732)
+      -  Sequence Level Training with Recurrent Neural Networks [[arXiv]](https://arxiv.org/abs/1511.06732)
 
 
 ## Evaluation

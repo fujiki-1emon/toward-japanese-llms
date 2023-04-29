@@ -1,4 +1,8 @@
 # Resources toward Japanese LLMs
+- Bellow are the list that I find are useful, helpful to build Large Language Models (LLMs) in Japanese.
+  - The list is not complete and there are other resources that I find are relevant but not yet listed.
+- Each resource in the list might have my comments on it.
+
 
 ## Table of Contents
 - [General](#general)

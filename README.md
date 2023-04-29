@@ -47,6 +47,7 @@
 - [【インターンレポート】6.7B日本語モデルに対するLoRAチューニング](https://engineering.linecorp.com/ja/blog/lora-tuning-for-japanese-model)
 - Self-Instruct: Aligning Language Model with Self Generated Instructions [arXiv](https://arxiv.org/abs/2212.10560)
   - https://twitter.com/rasbt/status/1650866140892069892?s=20
+- Performance report of rinna/japanese-gpt-1b fine-tuned on Japanese version (translation) of Dolly dataset [[tweet]](https://twitter.com/kun1em0n/status/1651849601505464320?s=20)
 
 ### RLHF
 - RLHF works because it's rating full sentences

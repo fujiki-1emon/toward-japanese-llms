@@ -16,6 +16,8 @@
 - The Pile has 0.07%（approx. 900 M chars）of Japanese texts based on the types of the characters.
   - cf. [The Pileの構成（なぜCerebras-GPTで日本語が使えるのか？）](https://staka.jp/wordpress/?p=854)
 
+### The ROOTS
+- [The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset](https://openreview.net/forum?id=UoEw6KigkUn)
 
 ## Donwstream tasks
 ### Question Answering

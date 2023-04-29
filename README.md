@@ -48,6 +48,8 @@
 - Self-Instruct: Aligning Language Model with Self Generated Instructions [arXiv](https://arxiv.org/abs/2212.10560)
   - https://twitter.com/rasbt/status/1650866140892069892?s=20
 - Performance report of rinna/japanese-gpt-1b fine-tuned on Japanese version (translation) of Dolly dataset [[tweet]](https://twitter.com/kun1em0n/status/1651849601505464320?s=20)
+  - <img width="477" alt="スクリーンショット 2023-04-29 11 19 01" src="https://user-images.githubusercontent.com/8359397/235279258-1c28d56e-dd6d-4eda-82b5-a0ab02555439.png">
+
 
 ### RLHF
 - RLHF works because it's rating full sentences

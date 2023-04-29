@@ -1,6 +1,7 @@
 # Resources toward Japanese LLMs
 
 ## Table of Contents
+- [General](#general)
 - [Pre-training datasets](#pre-training-datasets)
 - [Downsteam tasks](#donwstream-tasks)
 - [Tokenization](#tokenization)

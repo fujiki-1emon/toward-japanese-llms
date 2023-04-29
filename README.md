@@ -9,6 +9,9 @@
 - [Training](#training)
 - [Evaluation](#evaluation)
 
+## General
+- A Survey of Large Language Models [[arXiv]](https://arxiv.org/abs/2303.18223)
+
 ## Pre-training datasets
 ### The Pile
 - The Pile: An 800GB Dataset of Diverse Text for Language Modeling [[arXiv]](https://arxiv.org/abs/2101.00027)
@@ -52,6 +55,7 @@
 
 ### Alignment
 - Learning to summarize from human feedback [[arXiv]](https://arxiv.org/abs/2009.01325)
+- Training language models to follow instructions with human feedback [[arXiv]](https://arxiv.org/abs/2203.02155)
 
 ### RLHF
 - RLHF works because it's rating full sentences

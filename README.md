@@ -50,8 +50,6 @@
 - [【インターンレポート】6.7B日本語モデルに対するLoRAチューニング](https://engineering.linecorp.com/ja/blog/lora-tuning-for-japanese-model)
 - Self-Instruct: Aligning Language Model with Self Generated Instructions [arXiv](https://arxiv.org/abs/2212.10560)
   - https://twitter.com/rasbt/status/1650866140892069892?s=20
-- Performance report of rinna/japanese-gpt-1b fine-tuned on Japanese version (translation) of Dolly dataset [[tweet]](https://twitter.com/kun1em0n/status/1651849601505464320?s=20)
-  - <img width="477" alt="スクリーンショット 2023-04-29 11 19 01" src="https://user-images.githubusercontent.com/8359397/235279258-1c28d56e-dd6d-4eda-82b5-a0ab02555439.png">
 
 ### Alignment
 - Learning to summarize from human feedback [[arXiv]](https://arxiv.org/abs/2009.01325)
@@ -68,6 +66,9 @@
 - [EleutherAI/lm-evaluation-harness: v0.3.0](https://zenodo.org/record/7413426)
 - [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset)
 
+### Reports
+- Performance report of `rinna/japanese-gpt-1b` fine-tuned on Japanese version (translation) of Dolly dataset [[tweet]](https://twitter.com/kun1em0n/status/1651849601505464320?s=20)
+  - <img width="477" alt="スクリーンショット 2023-04-29 11 19 01" src="https://user-images.githubusercontent.com/8359397/235279258-1c28d56e-dd6d-4eda-82b5-a0ab02555439.png">
 
 ## Practical
 - Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [[ArXiv]](https://arxiv.org/abs/2304.13712)

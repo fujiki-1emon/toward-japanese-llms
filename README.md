@@ -27,6 +27,11 @@
 ### The ROOTS
 - [The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset](https://openreview.net/forum?id=UoEw6KigkUn)
 
+### RedPajama-Data [[github]](https://github.com/togethercomputer/RedPajama-Data)
+- However, the Pile still seems better than RedPajama-Data - cf. https://twitter.com/BlancheMinerva/status/1652899628356960256?s=20
+  - <img width="478" alt="スクリーンショット 2023-05-03 12 56 52" src="https://user-images.githubusercontent.com/8359397/235830208-385c734e-5e3b-4f5c-990c-9b41e6008726.png">
+
+
 ## Donwstream tasks
 ### Question Answering
 - Better Question-Answering Models on a Budget [[ArXiv]](https://arxiv.org/abs/2304.12370v1)

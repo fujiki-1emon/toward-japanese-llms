@@ -75,6 +75,7 @@
 ## Evaluation
 - [EleutherAI/lm-evaluation-harness: v0.3.0](https://zenodo.org/record/7413426)
 - [japanese-toxic-dataset](https://github.com/inspection-ai/japanese-toxic-dataset)
+- [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
 
 ### Reports
 - Performance report of `rinna/japanese-gpt-1b` fine-tuned on Japanese version (translation) of Dolly dataset [[tweet]](https://twitter.com/kun1em0n/status/1651849601505464320?s=20)

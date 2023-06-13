@@ -60,6 +60,7 @@
 - [【インターンレポート】6.7B日本語モデルに対するLoRAチューニング](https://engineering.linecorp.com/ja/blog/lora-tuning-for-japanese-model)
 - Self-Instruct: Aligning Language Model with Self Generated Instructions [arXiv](https://arxiv.org/abs/2212.10560)
   - https://twitter.com/rasbt/status/1650866140892069892?s=20
+- INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models [arXiv](https://arxiv.org/abs/2306.04757) Related [tweet](https://twitter.com/YiTayML/status/1668302949276356609?s=20)
 
 ### Alignment
 - Learning to summarize from human feedback [[arXiv]](https://arxiv.org/abs/2009.01325)
